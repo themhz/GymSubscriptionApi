@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymSubscriptionApi", "GymSubscriptionApi\GymSubscriptionApi.csproj", "{4BCAE3BA-523F-49CA-943E-2D6781368116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BCAE3BA-523F-49CA-943E-2D6781368116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCAE3BA-523F-49CA-943E-2D6781368116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCAE3BA-523F-49CA-943E-2D6781368116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCAE3BA-523F-49CA-943E-2D6781368116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64D04B39-20EA-4FC7-BB90-147FB1A7438C}
+	EndGlobalSection
+EndGlobal
